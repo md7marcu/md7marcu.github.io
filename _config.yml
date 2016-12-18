@@ -24,7 +24,7 @@ github_username:  md7marcu
 
 # Build settings
 markdown: kramdown
-theme: karna
+theme: merlot
 gems:
   - jekyll-feed
 exclude:
