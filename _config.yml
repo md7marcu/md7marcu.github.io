@@ -17,7 +17,7 @@ title: Ultrakompis
 email: marcus.berggren@
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ultrakompis.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://ultrakompis.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: md7marcu
 github_username:  md7marcu
 
