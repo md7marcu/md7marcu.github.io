@@ -23,7 +23,7 @@ github_username:  md7marcu
 
 # Build settings
 markdown: kramdown
-theme: time-machine
+theme: tactile
 show_downloads: false
  
 #gems:
