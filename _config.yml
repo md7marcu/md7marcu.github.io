@@ -23,7 +23,7 @@ github_username:  md7marcu
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
+theme: modernist
 show_downloads: false
  
 gems:
