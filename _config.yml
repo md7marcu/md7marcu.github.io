@@ -23,7 +23,8 @@ github_username:  md7marcu
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+theme: jekyll-theme-minimal
 show_downloads: false
  
 #gems:
@@ -31,4 +32,5 @@ show_downloads: false
 exclude:
   - Gemfile
   - Gemfile.lock
-#google_analytics: UA-90001865-1
+google_analytics: UA-90001865-1
+repository: md7marcu/md7marcu.github.io
