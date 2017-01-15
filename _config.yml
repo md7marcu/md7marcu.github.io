@@ -23,7 +23,8 @@ github_username:  md7marcu
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+theme: jekyll-theme-cayman
 show_downloads: false
 #gems:
     #  - jekyll-feed
