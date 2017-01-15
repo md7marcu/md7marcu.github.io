@@ -1,7 +1,5 @@
 ---
 title: Packad och Stukad
-layout: post
-categories: racereport race report
 ---
 Färdigpackad ett dygn i förväg. Inte dåligt. Sämre att stuka foten. Tror det gick rätt bra ändå. Gjorde precis samma sak innan Marathon des Sables. Måste se över inför räs ritualerna. Packningen landade på 28 kg. Elva saker kvar på inköpslistan, så något kilo till blir det. Gruvar mig inför utrustningsinlägget om någon vecka.
 
