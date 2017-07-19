@@ -43,7 +43,7 @@ As usual so many to thank. The mind bogglingly nice people of northern Minnesota
 [2]: {{ site.url }}/assets/IDontWanToTalkAboutIt/2.jpg "Backpack."
 [3]: {{ site.url }}/assets/IDontWanToTalkAboutIt/3.jpg "Earlier sled that was too short."
 [4]: {{ site.url }}/assets/IDontWanToTalkAboutIt/4.jpg "Colder temps during training."
-[5]: {{ site.url }}/assets/IDontWanToTalkAboutIt/5jpg "Leaving Gateway."
+[5]: {{ site.url }}/assets/IDontWanToTalkAboutIt/5.jpg "Leaving Gateway."
 [6]: {{ site.url }}/assets/IDontWanToTalkAboutIt/6.jpg "Working the upper body."
 [7]: {{ site.url }}/assets/IDontWanToTalkAboutIt/7.jpg "Comfy Mel Georges."
 [8]: {{ site.url }}/assets/IDontWanToTalkAboutIt/8.jpg "Finally allowed to stop moving."
