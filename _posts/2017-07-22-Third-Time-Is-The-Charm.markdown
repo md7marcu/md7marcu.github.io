@@ -58,7 +58,7 @@ Weight at end: Unknown, from looking at pictures about 2x the start weight.
 
 [1]: {{ site.url }}/assets/ThirdTimeIsTheCharm/ShowingSomeLeg.jpg "First start wave posing for the camera."
 [2]: {{ site.url }}/assets/ThirdTimeIsTheCharm/ReadyForAHike.jpg "Ready to hike up Towness Pass." 
-[3]: {{ site.url }}/assets/DraThirdTimeIsTheCharmft/AmargosaOpera.jpg "The team taking the tour at Amargosa Opera House."
+[3]: {{ site.url }}/assets/ThirdTimeIsTheCharm/AmargosaOpera.jpg "The team taking the tour at Amargosa Opera House."
 [4]: {{ site.url }}/assets/ThirdTimeIsTheCharm/CoolingDown.jpg "Cooling down at Townes pass."
 [5]: {{ site.url }}/assets/ThirdTimeIsTheCharm/FikaBreak.jpg "Fika."
 [6]: {{ site.url }}/assets/ThirdTimeIsTheCharm/FinishLine.jpg "Faking the finish line crossing."
