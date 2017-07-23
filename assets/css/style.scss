@@ -1,0 +1,51 @@
+.post-list{
+width:610px;
+margin:0 auto;
+}
+/* LIST #8 */
+.post-list { }
+.post-list ul {
+list-style:none;
+}
+.post-list ul li {
+font-size:15px;
+font-family: 'Raleway', sans-serif;
+}
+.post-list ul li a {
+display:block;
+width:490px;
+margin-left: -40px;
+height:50px;
+background-color:#03B3CB;
+border-left:5px solid #222;
+border-right:5px solid #222;
+padding-left:10px;
+padding-top:7px;
+text-decoration:none;
+color:white;
+margin-bottom: 7px;
+transition: all .2s ease-in-out;
+}
+.post-list ul li a:hover {
+
+-moz-box-shadow:10px 10px 20px #000000;
+
+-webkit-box-shadow:10px 10px 20px #000000;
+
+box-shadow:10px 10px 20px #000000;
+}
+
+/**
+ * Images
+ */
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+img + em {
+  color: lightslategrey;
+  text-align: center;
+}
+
+
