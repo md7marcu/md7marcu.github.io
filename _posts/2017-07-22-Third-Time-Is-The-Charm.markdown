@@ -52,6 +52,7 @@ String cheese pieces eaten: 0
 Ensures had: 10  
 Hamburgers eaten: 1  
 Weight at end: Unknown, from looking at pictures about 2x the start weight.  
+40 seconds squats performed: 43
 
 ![Swollen hands, from the walking and the gatorade][11]
 *Swollen hands holding swag*
