@@ -14,6 +14,9 @@ ruby RUBY_VERSION
 #versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 #gem 'github-pages', versions['github-pages'], group: :jekyll_plugins
 
+
+#errorororro 
+gem 'ffi', '~>1.9'
 #gem "minimal", "~> 2.0"
 gem "jekyll-theme-minimal"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

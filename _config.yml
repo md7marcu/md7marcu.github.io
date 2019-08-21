@@ -33,3 +33,5 @@ exclude:
 google_analytics: UA-90001865-1
 repository: md7marcu/md7marcu.github.io
 future: true
+sass:
+    sass_dir: _sass
