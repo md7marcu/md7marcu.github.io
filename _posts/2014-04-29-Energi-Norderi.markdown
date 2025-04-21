@@ -1,5 +1,7 @@
+layout: post
 ---
 title: Energi Nörderi
+layout: post
 ---
 
 Ett djupt andetag och rätt in i matkalkylbladet. En nedbantad version med maten som faktiskt togs med. Den uppmärksamme ser också att dag planeringen inte stämmer. Det gjorde inte så mycket för man hade ingen aning om vilken dag det var ändå. Bättre att märka matpåsarna med nummer istället för dag. (Torsdag skall egentligen vara dag 3)
@@ -24,7 +26,7 @@ Samtliga maträtter hade kunnat kryddats mer, salt och/eller någon allkrydda. P
 
 Delade lite mat, speciellt de sista dagarna. Då fick man lite mer smaker och fick lite mer att göra när man fick laga flera mål. Bland annat Reals turmat vilket var minst lika bra som blå band. Fick några winforce gels som fungerade bra. Cocos så de smakade inget vidare men lättflytande så de slank ner lätt. Fick även några enervit crunchy bars som fungerade förvånansvärt bra för att vara bars.
 
-![Matplanering][1]
+![Matplanering.](/assets/EnergiNorderi/1.jpg "Matplanering.")
 
 För att summera så fungerade energi planeringen väldigt bra. Oroade mig lite över att jag tagit bort för mycket mat bland det sista jag gjorde. Hade planerat med 2 portioner till frukost. Ändrade till 1.5 för att spara vikt. Gav bort ett antal clif bars 4-6st. Några nuun tabletter slängdes. Så runt 200g i onödig vikt. Fick någon maträtt och några gels.
 
@@ -33,13 +35,8 @@ Under planeringen så fanns tankar om att ta med nudlar, Little cook 440kcal 94g
 
 Terje lagar mat på storköket, bakom ett par trötta shorts
 
-![Trötta shorts][2]
+![Terje lagar mat på storköket, bakom ett par trötta shorts.](/assets/EnergiNorderi/2.jpg "Terje lagar mat på storköket, bakom ett par trötta shorts.")
 
-![Mat i dagpåsar][3]
+![Mat uppdelade i dagpåsar uppe till höger.](/assets/EnergiNorderi/3.jpg "Mat uppdelade i dagpåsar uppe till höger.")
 
-![Ligger i tältet och tänker på mat][4]
-
-[1]: {{ site.url }}/assets/EnergiNorderi/1.jpg "Matplanering."
-[2]: {{ site.url }}/assets/EnergiNorderi/2.jpg "Terje lagar mat på storköket, bakom ett par trötta shorts."
-[3]: {{ site.url }}/assets/EnergiNorderi/3.jpg "Mat uppdelade i dagpåsar uppe till höger."
-[4]: {{ site.url }}/assets/EnergiNorderi/4.jpg "Lagar inte mat, men tänker garanterat på mat."
+![Lagar inte mat, men tänker garanterat på mat.](/assets/EnergiNorderi/4.jpg "Lagar inte mat, men tänker garanterat på mat.")

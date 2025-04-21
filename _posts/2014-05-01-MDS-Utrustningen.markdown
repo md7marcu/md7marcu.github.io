@@ -1,9 +1,11 @@
+layout: post
 ---
 title: MDS Utrustningen
+layout: post
 ---
 Då var det äntligen dags för utrustningsinlägget. Tror jag fått med allt som bars med. Allt stötte och blöttes innan, dvs vägdes. Men hittar inte igen den datan. De viktigaste sakerna finns dock grammen med på så ni behöver inte vara oroliga, dyk in bara.
 
-## Obligatorisk utrustning 
+## Obligatorisk utrustning
 
 Utrustning | Kommentar
 :---|:---
@@ -62,6 +64,4 @@ Några generella råd. Varje gram räknas. Om du tänker att det kan nog vara br
 Det avslutar Marathon des Sables inläggen. Det har varit roligt. Jag är övertygad om att någon kommer att ha nytta av utrustnings-/matinläggen. Om inte annat så kommer jag själv att ha användning av de när det är dags igen. För igen blir det, frågan är bara när. Meningen med den här bloggen var från början trots allt att få ner mina erfarenheter av utrustningen och maten jag använt. För att hjälpa er som planerar ert Marathon des Sables äventyr. Om det är någon som läser det här och funderar på att anmäla sig. Så kan jag bara säga, gört.
 Min främsta behållning från Marathon des Sables är alla de dagar som jag inte kommer att glömma förrän döden tar mig. Men vem vet, när jag ligger på dödsbädden och summerar mitt liv så kanske jag ångrar mig att jag inte renoverade köket istället. Jag hade kunnat måla det vitt.
 
-![Glad gubbe med medalj][1]
-
-[1]: {{ site.url }}/assets/MDSUtrustning/gube.jpg  "Glad och mäkta stolt gubbe."
+![Glad och mäkta stolt gubbe.](/assets/MDSUtrustning/gube.jpg  "Glad och mäkta stolt gubbe.")

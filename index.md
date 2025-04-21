@@ -4,3 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+# Welcome to Ultrakompis
+
+This blog chronicles adventures in ultrarunning and endurance sports. Explore the posts below to read about races, training, and the journey.

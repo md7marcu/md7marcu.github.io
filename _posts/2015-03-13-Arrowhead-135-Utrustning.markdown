@@ -1,13 +1,14 @@
 ---
 title: Arrowhead 135 - Utrustning
+layout: post
 ---
 Utrustningen som följde med på de 217 kilometrarna till Tower, MN. Extremt mycket kläder som inte kom till användning. Men jag packade för att klara av loppet under alla eventualiteter. Inte för att tävla. Funderade på det ända in i det sista. Att packa så lätt som möjligt men riskera att inte kunna fullfölja. Med lättast möjliga packning så hade tiden kunnat kapats rejält. Använde bara en tröja av alla extra kläder som var med. Däremot så blev jag väldigt nervös efter några mil när jag insåg att jackan var genomsvettig. Men blev lugn igen när jag insåg att jag hade nog med kläder för att klara åtminstone två ombyten.
 
-![Utrustning] [gear]
+![Utrustning](/assets/Utrustning/1_Gear.jpg)
 
 ## Obligatorisk utrustning#
 
-| Utrustning | Kommentar | 
+| Utrustning | Kommentar |
 |:---+:---|
 | Sovsäck | The North Face Inferno -40
 | Liggunderlag | Therm-A-Rest Z-Lite SOL
@@ -21,9 +22,9 @@ Utrustningen som följde med på de 217 kilometrarna till Tower, MN. Extremt myc
 | Visselpipa | Från någon ryggsäck
 | Nödproviant | Jordnötssmör
 
-![Utrustning] [gear2]
+![Utrustning](/assets/Utrustning/2_Gear.jpg)
 
-![Dra Pulka] [dragPulk]
+![Dra Pulka](/assets/Utrustning/3_DragPulk.jpg)
 
 ## Övrig utrustning
 
@@ -42,32 +43,20 @@ Huvud | En tunnare mössa. Bytte aldrig. Tre tunnare mössor, en varm goretex oc
 Underkropp | Ullkalsonger, vintertights och shorts. Ett par pertex fodrade skalbyxor i pulkan.
 Övrigt | Nummerlapps hållare/Racebelt. Solglasögon, behövdes inte. Garmin Astro 320 GPS, gick bara att använda alldeles i början. Spåren som jag laddade ner var gjorda för hand och fågelvägen så helt värdelösa. Behövdes inte heller. Silvertejp, extra rep, multiverktyg för eventuella reparationer. Extra batterier till pannlampor och GPS. Spork. Mp3 spelare. Telefon.
 
-![Mikaal] [ikaal]
+![Mikaal](/assets/Utrustning/4_Ikaal.jpg)
 
 Pulkan byggdes av en UHWM platta, 2x1000x2000mm. Ritningen är borttappad men pulkan är 1100mm lång och 510mm bred. Sidorna bockades på två ställen ca 45grader 50mm in och 100mm in. Framändan och bakändan klipptes och viktes sen popnitades. 50mm breda remsor klipptes 100mm in. 4st fram och 2 bak. Fäste 2 st U-bultar fram för att fästa repen i. Se foton för att förstå hur det är klippt och bockat. Använde mig av rep till selen för att lätt kunna sätta mig på pulkan och åka i utförsbackarna. Ett problem var att jag inte gjort några styrskenor under pulkan, så ibland snurrade jag okontrollerat. Men det var å andra sidan bara roligt. Från pulkan så hade jag rep som gick till selen där jag fäste repen på en snodd av elastiskt gummirep. Samma typ på pulkan för att fästa väskorna. Fraktade pulkan i en snowboardbag. Packade så att den förhoppningsvis skulle klara sig om den hamnade underst i bagagevagnarna. Var inte lika noggrann på vägen hem så då lossnade två popnitar.
 
-![Pulka front konstruktion] [pulk5]
+![Pulka front konstruktion](/assets/Utrustning/5_Pulk.jpg)
 
-![Pulka front konstruktion utsida] [pulk6]
+![Pulka front konstruktion utsida](/assets/Utrustning/6_Pulk.jpg)
 
-![Pulka front konstruktion insida] [pulk7] 
+![Pulka front konstruktion insida](/assets/Utrustning/7_Pulk.jpg)
 
-![Pulka front sida drag konstruktion] [pulk8]
+![Pulka front sida drag konstruktion](/assets/Utrustning/8_Pulk.jpg)
 
-![Pulka front drag konstruktion] [pulk9]
+![Pulka front drag konstruktion](/assets/Utrustning/9_Pulk.jpg)
 
-![Pulka ovansida konstruktion] [pulk10]
+![Pulka ovansida konstruktion](/assets/Utrustning/10_Pulk.jpg)
 
-![Spartathlon] [spartathlon]
-
-[gear]: {{ site.url }}/assets/Utrustning/1_Gear.jpg
-[gear2]: {{ site.url }}/assets/Utrustning/2_Gear.jpg
-[dragPulk]: {{ site.url }}/assets/Utrustning/3_DragPulk.jpg
-[ikaal]: {{ site.url }}/assets/Utrustning/4_Ikaal.jpg
-[pulk5]: {{ site.url }}/assets/Utrustning/5_Pulk.jpg
-[pulk6]: {{ site.url }}/assets/Utrustning/6_Pulk.jpg
-[pulk7]: {{ site.url }}/assets/Utrustning/7_Pulk.jpg
-[pulk8]: {{ site.url }}/assets/Utrustning/8_Pulk.jpg
-[pulk9]: {{ site.url }}/assets/Utrustning/9_Pulk.jpg
-[pulk10]: {{ site.url }}/assets/Utrustning/10_Pulk.jpg
-[spartathlon]: {{ site.url }}/assets/Utrustning/11_Spartathlon.gif
+![Spartathlon](/assets/Utrustning/11_Spartathlon.gif)

@@ -1,7 +1,8 @@
 ---
 title: I Retire
+layout: post
 ---
-![Death Valley National Park Sign][1]
+![Death Valley National Park Sign.](/assets/IRetire/1.jpg "Death Valley National Park Sign.")
 *“If we had no winter, the spring would not be so pleasant: if we did not sometimes taste of adversity, prosperity would not be so welcome.”*
 
 — Anne Bradstreet
@@ -10,65 +11,50 @@ I decided upon the title about a month back. Not having any idea of how the race
 
 The race, Badwater 135 Ultramarathon, started out very good. Even though I did not feel very well the last few days. But standing before such a monumental challenge you rarely do. After maybe 10 miles (16km) I started to slow down. Which in a way was a relief, figured I would take it easy and start passing people en masse towards the end of the race.
 
-![Present in the start field][2]
+![Present!](/assets/IRetire/2.jpg "Present!")
 
 That would not happen. At mile 13 I stopped, my legs would not move anymore, stupid legs. So 13 is very close to 1/10 of 135, those thoughts did not help very much but they would not go away. Just as stubborn as the legs that would not move.
 
-![Dead at Furnace Creek][3]
+![Dead at the Furnace Creek timing station, 17 miles in.](/assets/IRetire/3.jpg "Dead at the Furnace Creek timing station, 17 miles in.")
 
 In my state of complete and utter failure and shame. I also knew I could not just quit. Even though there was no chance I would make the first cutoff, which is at Townes pass 50 miles (80km) into the race. I was in a delirious state and could not really hear what the crew was saying at the stops, focused on the wife and asked her to make me get to the cutoff in time. Somehow they managed.
 
-![Trying to sleep while eating potato chips][4]
+![Hard to sneak in some zzz’s while eating potato chips, the crew notices right away.](/assets/IRetire/4.jpg "Hard to sneak in some zzz’s while eating potato chips, the crew notices right away.")
 
 They increased the hourly caloric intake and told me to run one road marker and walk two. The calories pulled me out of the delirium. But the real stroke of genius was the road markers. First of all it made me focus on something else than the negative thoughts. Secondly running one and walking two is not that hard really. Even though I knew what was coming. Run one and walk one. Three and one was my limit. I finally made it to Stovepipe Wells, on a wing and a prayer. Checked in and was getting ready to sleep for at least an hour.
 
-![Leaving Stovepipe Wells][5]
+![Leaving Stovepipe Wells timing station.](/assets/IRetire/5.jpg "Leaving Stovepipe Wells timing station.")
 
 However, even though there is a timing station there the cutoff point is 8 miles and 2000 feet up the mountain. I honestly do not know how they made me get out of the chair and start pushing up the hill. I should have layed down, curled up, and cried. Instead I was pushed by Ashley and Henrik, both taking turn in making me suffer. Henrik almost ended up in a fist fight with his “Springer du inte så hinner du inte!”, (“If you don’t run, you won’t make it”), comment that he had on repeat. That would probably have made him and the rest of the mountain laugh.
 
-![Henrik checking the watch for the cutoff][6]
+![Trying to make the cutoff.](/assets/IRetire/6.jpg "Trying to make the cutoff.")
 
 Eventually I reached my limit, I knew I could not move an other step, and there was no need to because the cutoff  had been reached. I didn’t have a watch but I saw it on their faces and the way they kept talking to me. I decided to walk out in the desert and sit down and cry.
 
-![Hobbling up the mountain with Ashley][7]
+![Hobbling up the mountain.](/assets/IRetire/7.jpg "Hobbling up the mountain.")
 
 But Ashley explained very clearly that I had to get to the cutoff station even if I wouldn’t make the actual cutoff. At least then I had given it my all. So somehow I did. Seeing the benevolent race dictator there I was very happy to be pulled from the race. For I had given it my all. As a matter of fact I had gone even further. I reached my limit miles back but managed to go a few more steps.
 
-![Heading for the car to rest at cutoff][8]
+![Onwards and upwards.](/assets/IRetire/8.jpg "Onwards and upwards.")
 
 So when Jonathan and Ashley walked up to me and said they had terrible news I once again expected to curl up in a big ball and cry. But I heard myself saying I need to drink, eat and sleep if we are going to have any chance of finishing. They had of course already planned for it. So the struggle were to continue.
 
-![Trying to rest in the car while cramping][9]
+![Resting.](/assets/IRetire/9.jpg "Resting.")
 
 We continued on by taking one step at a time. Which takes a long time when you need to cover 85 miles. Even longer when you nap, eat a burger, and keep insisting on sitting in a chair all the time.
 
-![Eating P&J sandwich and getting the feet massaged][10]
+![Having a bite to eat and some pedicure.](/assets/IRetire/10.jpg "Having a bite to eat and some pedicure.")
 
 There is a reason that Badwater 135 is in most lists of the hardest endurance races there is. It is extremely difficult on a good day, of which there are none. You really need to want to finish in order to. It is not a walk in the park even though I did a lot of walking in the park. The last 13 miles felt kind of good comparatively. The climb up to the Whitney Portal was fun.
 
-![Walking up Whitney Portal Rd][11]
+![All alone on the Whitney Portal Rd.](/assets/IRetire/11.jpg "All alone on the Whitney Portal Rd.")
 
 But nothing like when we crossed the finish line, all five of us.
 
-![Group hug after finish line][12]
+![Finally shedding some tears.](/assets/IRetire/12.jpg "Finally shedding some tears.")
 
 Having been absolutely depleted and at the edge of my abilities so early in the race and still being able to finish is a testament to how big part the crew plays in a race like this. I am incredibly grateful to have them as friends/family members.
 
-![Finish photo with the Swedish and American flags][13]
+![First time bringing the Stars and Stripes.](/assets/IRetire/13.jpg "First time bringing the Stars and Stripes.")
 
 It is truly fascinating how strong yet fragile the mind is. How much further you can go even though you can not go any further. I wonder if third time’s the charm?
-
-
-[1]: {{ site.url }}/assets/IRetire/1.jpg "Death Valley National Park Sign."
-[2]: {{ site.url }}/assets/IRetire/2.jpg "Present!"
-[3]: {{ site.url }}/assets/IRetire/3.jpg "Dead at the Furnace Creek timing station, 17 miles in."
-[4]: {{ site.url }}/assets/IRetire/4.jpg "Hard to sneak in some zzz’s while eating potato chips, the crew notices right away."
-[5]: {{ site.url }}/assets/IRetire/5.jpg "Leaving Stovepipe Wells timing station."
-[6]: {{ site.url }}/assets/IRetire/6.jpg "Trying to make the cutoff."
-[7]: {{ site.url }}/assets/IRetire/7.jpg "Hobbling up the mountain."
-[8]: {{ site.url }}/assets/IRetire/8.jpg "Onwards and upwards."
-[9]: {{ site.url }}/assets/IRetire/9.jpg "Resting."
-[10]: {{ site.url }}/assets/IRetire/10.jpg "Having a bite to eat and some pedicure."
-[11]: {{ site.url }}/assets/IRetire/11.jpg "All alone on the Whitney Portal Rd."
-[12]: {{ site.url }}/assets/IRetire/12.jpg "Finally shedding some tears."
-[13]: {{ site.url }}/assets/IRetire/13.jpg "First time bringing the Stars and Stripes."
