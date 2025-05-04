@@ -224,7 +224,7 @@ GEM
     ruby-enum (0.7.2)
       i18n
     ruby_dep (1.5.0)
-    rubyzip (1.2.3)
+    rubyzip (2.3.2)
     safe_yaml (1.0.5)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
@@ -247,6 +247,7 @@ GEM
 PLATFORMS
   ruby
   x64-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   ffi (~> 1.9)
